@@ -6,6 +6,7 @@ public class helloWorld {
         String n2 = "Nina ";
         String n3 = "Vilde ";
         System.out.println("Hello " + n1 + n2 + "og " + n3);
+        System.out.println("Jeg er med! Hilsen Nina");
 
         for (int i = 1; i <= 10; i++){
             System.out.print(i + " ");
